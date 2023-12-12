@@ -1,3 +1,7 @@
+# Graph Processing Application
+
+## Overview
+
 This application processes graphs using various algorithms such as Dijkstra's Algorithm and Depth-First Search (DFS). It reads graph data from a text file and performs operations based on user commands.
 
 ## Getting Started
